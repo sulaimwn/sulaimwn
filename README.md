@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Sulaiman Qazi. CS at the University of Waterloo. PCBs, firmware and ML.">
+  <img src="assets/banner.svg" width="100%" alt="Sulaiman Qazi. CS at the University of Waterloo. ML, systems and web.">
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ### previously
 
 - **ml research intern @ sunnybrook research institute**: trained a u-net that segments red blood cells in histology slides, hitting 0.79 dice on animals it never saw in training
-- **firmware engineering intern @ sunnybrook**: swapped the switches and knobs on a focused ultrasound test rig for a 4-layer rp2040 board and c++ firmware, so failure scenarios run from a script. 33% cheaper than what it replaced
+- **firmware engineering intern @ sunnybrook research institute**: swapped the switches and knobs on a focused ultrasound test rig for a 4-layer rp2040 board and c++ firmware, so failure scenarios run from a script. 33% cheaper than what it replaced
 
 ### stack
 
@@ -61,4 +61,3 @@
 
 on the hardware side: kicad, altium, librepcb, solidworks, i2c / spi / uart, and a lot of smd soldering
 
-<p align="center"><sub>outside of all this: a lot of music, cooking, and anime 😼</sub></p>
