@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Sulaiman Qazi. CS at the University of Waterloo. ML, systems and web.">
-</p>
-
-<p align="center">
   <a href="https://sulaimanq.com"><img src="assets/site.svg" height="32" alt="sulaimanq.com"></a>
   <a href="https://www.linkedin.com/in/sulaimanq/"><img src="assets/linkedin.svg" height="32" alt="linkedin"></a>
   <a href="https://devpost.com/sulaimanqazi"><img src="assets/devpost.svg" height="32" alt="devpost"></a>
