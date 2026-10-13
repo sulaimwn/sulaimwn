@@ -6,14 +6,23 @@
   <a href="mailto:s6qazi@uwaterloo.ca"><img src="assets/email.svg" height="32" alt="email"></a>
 </p>
 
+
 ### currently
+
 
 - software engineer on perception & prediction @ [watonomous](https://watonomous.ca), waterloo's autonomous vehicle design team
 - looking for **summer 2027** internships in ml or software that runs close to hardware
 
+
 ### things i've built
 
+
 <table>
+  <tr><td>
+    <a href="https://reaforweb.com"><b>rea for web</b></a> · <a href="https://github.com/sulaimwn/REA-For-Web">source</a>&nbsp;&nbsp;<code>typescript</code> <code>next.js</code> <code>cloudflare&nbsp;workers</code><br>
+    brings <a href="https://github.com/morluto/rea">REA</a> to the browser: explore app architecture, inspect the evidence, and ask ai how things work
+  </td></tr>
+
   <tr><td>
     <a href="https://github.com/sulaimwn/LibrePCB-MCP-Server"><b>librepcb mcp server</b></a>&nbsp;&nbsp;<code>python</code> <code>mcp</code><br>
     lets ai agents open librepcb projects, list parts and nets, run electrical and board-rule checks, and export fab files, always on a copy so the real design stays untouched
@@ -36,24 +45,29 @@
   </td></tr>
 </table>
 
+
 <details>
 <summary><b>hackathon builds</b></summary>
 <br>
+
 
 - **[chaos roll](https://devpost.com/software/live-forge)** · 1st overall @ hack the valley hack day. a wave-survival game where gemini invents a new ability every 15 seconds and you race an ai through the same waves
 - **[bojon](https://devpost.com/software/bojon)** · ribbon prize @ hack the 6ix. head-to-head interview practice where twelve labs scores your video answers and the winner gains elo
 - **[branchforge](https://github.com/Toastyybread1/toralis-challenge)** · finds the arteries branching off the aorta in a ct scan and lays them out in a custom 3d slicer workspace, 91.9% f1 on dev cases
 
+
 </details>
+
 
 ### previously
 
+
 - **ml research intern @ sunnybrook research institute**: trained a u-net that segments red blood cells in histology slides, hitting 0.79 dice on animals it never saw in training
 - **firmware engineering intern @ sunnybrook research institute**: swapped the switches and knobs on a focused ultrasound test rig for a 4-layer rp2040 board and c++ firmware, so failure scenarios run from a script. 33% cheaper than what it replaced
+
 
 ### stack
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,pytorch,matlab,react,nodejs,arduino,raspberrypi,ros,linux,cmake,git&perline=15" alt="c, c++, python, typescript, javascript, pytorch, matlab, react, node.js, arduino, raspberry pi, ros, linux, cmake, git">
 
 on the hardware side: kicad, altium, librepcb, solidworks, i2c / spi / uart, and a lot of smd soldering
-
