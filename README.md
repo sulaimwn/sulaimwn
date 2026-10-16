@@ -12,7 +12,7 @@
 
 - software engineer on perception & prediction @ [watonomous](https://watonomous.ca), waterloo's autonomous vehicle design team
 - looking for **summer 2027** internships in ml or software that runs close to hardware
-- making dumb shit on the side
+- making shit on the side
 
 
 ### things i've built
