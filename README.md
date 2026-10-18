@@ -20,6 +20,11 @@
 
 <table>
   <tr><td>
+    <a href="https://waterloo-personal-assistant.vercel.app/"><b>waterloo personal assistant</b></a>&nbsp;&nbsp;<code>typescript</code> <code>next.js</code> <code>supabase</code> <code>vercel</code><br>
+    imports learn calendars, odyssey exam schedules and public cs135 coursework into a private dashboard with google sign-in and study plans that fit the time you have
+  </td></tr>
+
+  <tr><td>
     <a href="https://reaforweb.com"><b>rea for web</b></a> · <a href="https://github.com/sulaimwn/REA-For-Web">source</a>&nbsp;&nbsp;<code>typescript</code> <code>next.js</code> <code>cloudflare&nbsp;workers</code><br>
     brings <a href="https://github.com/morluto/rea">REA</a> to the browser: explore app architecture, inspect the evidence, and ask ai how things work
   </td></tr>
