@@ -20,7 +20,7 @@
 
 <table>
   <tr><td>
-    <a href="https://waterloo-personal-assistant.vercel.app/"><b>waterloo personal assistant</b></a>&nbsp;&nbsp;<code>typescript</code> <code>next.js</code> <code>supabase</code> <code>vercel</code><br>
+    <a href="https://waterloo-personal-assistant.vercel.app/"><b>waterloo personal assistant</b></a>&nbsp;&nbsp;<code>typescript</code> <code>next.js</code> <code>supabase</code> <code>openclaw</code> <code>vercel</code><br>
     imports learn calendars, odyssey exam schedules and public cs135 coursework into a private dashboard with google sign-in and study plans that fit the time you have
   </td></tr>
 
